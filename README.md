@@ -19,7 +19,7 @@ The following image shows a batch of predictions from the model 'best3.pt':
 
 ![image](runs/detect/train232/val_batch2_pred.jpg)
 
-We can see that the conf parameter will have to be set at a high value to avoid the predictions on cut frutis, which we want to avoid.
+We can see that the conf parameter will have to be set at a high value to avoid the unnecessary predictions on cut fruits.
 
  - GIF coming soon with predictions on short video as test.
 
