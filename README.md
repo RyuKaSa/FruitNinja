@@ -21,7 +21,7 @@ The following image shows a batch of predictions from the model 'best3.pt':
 
 We can see that the conf parameter will have to be set at a high value to avoid the unnecessary predictions on cut fruits.
 
- - GIF coming soon with predictions on short video as test.
+![image](git_images/gameplay_short_best3.gif)
 
 ------------------------
 
